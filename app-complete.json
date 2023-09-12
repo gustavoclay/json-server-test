@@ -285,14 +285,6 @@
             "restaurante_id": 3
         },
         {
-            "id": 11,
-            "nome": "Lassi de Manga",
-            "preco": 5.99,
-            "descricao": "Iogurte batido com manga e especiarias.",
-            "imagem": "https://img.freepik.com/fotos-gratis/iogurte-de-manga-caseiro-em-superficie-de-marmore_1150-41963.jpg",
-            "restaurante_id": 6
-        },
-        {
             "id": 9,
             "nome": "Vinho Branco Chardonnay",
             "preco": 29.99,

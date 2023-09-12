@@ -1,0 +1,46 @@
+{
+    "pratos": [
+        {
+            "id": 1,
+            "nome": "Pizza Margherita",
+            "preco": 15.99,
+            "descricao": "Pizza tradicional com molho de tomate, mussarela fresca e manjericão.",
+            "imagem": "https://exemplo.com/pizza_margherita.jpg",
+            "restaurante_id": 1
+        },
+        {
+            "id": 2,
+            "nome": "Pasta Carbonara",
+            "preco": 12.99,
+            "descricao": "Massa com molho à base de ovos, queijo pecorino e bacon.",
+            "imagem": "https://exemplo.com/pasta_carbonara.jpg",
+            "restaurante_id": 1
+        },
+        {
+            "id": 7,
+            "nome": "Lasanha à Bolonhesa",
+            "preco": 14.99,
+            "descricao": "Camadas de massa intercaladas com molho bolonhesa e queijo gratinado.",
+            "imagem": "https://exemplo.com/lasanha_bolonhesa.jpg",
+            "restaurante_id": 1
+        }
+    ],
+    "bebidas": [
+        {
+            "id": 1,
+            "nome": "Vinho Tinto",
+            "preco": 25.99,
+            "descricao": "Um vinho tinto encorpado, perfeito para acompanhar pratos italianos.",
+            "imagem": "https://exemplo.com/vinho_tinto.jpg",
+            "restaurante_id": 1
+        },
+        {
+            "id": 2,
+            "nome": "Limonada",
+            "preco": 5.99,
+            "descricao": "Limonada refrescante com um toque de hortelã.",
+            "imagem": "https://exemplo.com/limonada.jpg",
+            "restaurante_id": 1
+        }
+    ]
+}

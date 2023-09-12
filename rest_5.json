@@ -1,0 +1,46 @@
+{
+    "pratos": [
+        {
+            "id": 17,
+            "nome": "Risoto de Camarão",
+            "preco": 22.99,
+            "descricao": "Risoto cremoso com camarões suculentos e toque de limão.",
+            "imagem": "https://exemplo.com/risoto_camarao.jpg",
+            "restaurante_id": 5
+        },
+        {
+            "id": 18,
+            "nome": "Bacalhau à Brás",
+            "preco": 19.99,
+            "descricao": "Bacalhau desfiado com batatas fritas e ovos mexidos.",
+            "imagem": "https://exemplo.com/bacalhau_bras.jpg",
+            "restaurante_id": 5
+        },
+        {
+            "id": 19,
+            "nome": "Filet Mignon com Molho de Mostarda",
+            "preco": 24.99,
+            "descricao": "Filet mignon grelhado com molho de mostarda dijon.",
+            "imagem": "https://exemplo.com/filet_mignon_mostarda.jpg",
+            "restaurante_id": 5
+        }
+    ],
+    "bebidas": [
+        {
+            "id": 9,
+            "nome": "Vinho Branco Chardonnay",
+            "preco": 29.99,
+            "descricao": "Um vinho branco encorpado, perfeito para acompanhar pratos de frutos do mar.",
+            "imagem": "https://exemplo.com/vinho_branc_chardonnay.jpg",
+            "restaurante_id": 5
+        },
+        {
+            "id": 10,
+            "nome": "Coquetel de Frutas Tropicais",
+            "preco": 6.99,
+            "descricao": "Uma mistura refrescante de frutas tropicais com suco de laranja.",
+            "imagem": "https://exemplo.com/coquetel_frutas_tropicais.jpg",
+            "restaurante_id": 5
+        }
+    ]
+}

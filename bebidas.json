@@ -1,0 +1,100 @@
+{
+    "bebidas": [
+        {
+            "id": 1,
+            "nome": "Vinho Tinto",
+            "preco": 25.99,
+            "descricao": "Um vinho tinto encorpado, perfeito para acompanhar pratos italianos.",
+            "imagem": "https://exemplo.com/vinho_tinto.jpg",
+            "restaurante_id": 1
+        },
+        {
+            "id": 2,
+            "nome": "Limonada",
+            "preco": 5.99,
+            "descricao": "Limonada refrescante com um toque de hortelã.",
+            "imagem": "https://exemplo.com/limonada.jpg",
+            "restaurante_id": 1
+        },
+        {
+            "id": 3,
+            "nome": "Chá de Jasmin",
+            "preco": 3.99,
+            "descricao": "Chá delicado com aroma de jasmin.",
+            "imagem": "https://exemplo.com/cha_jasmin.jpg",
+            "restaurante_id": 2
+        },
+        {
+            "id": 4,
+            "nome": "Cerveja Sapporo",
+            "preco": 7.99,
+            "descricao": "Cerveja japonesa premium, leve e refrescante.",
+            "imagem": "https://exemplo.com/cerveja_sapporo.jpg",
+            "restaurante_id": 2
+        },
+        {
+            "id": 5,
+            "nome": "Margarita Clássica",
+            "preco": 8.99,
+            "descricao": "Tequila, licor de laranja e suco de limão, servido com sal na borda.",
+            "imagem": "https://exemplo.com/margarita_classica.jpg",
+            "restaurante_id": 3
+        },
+        {
+            "id": 6,
+            "nome": "Horchata",
+            "preco": 4.99,
+            "descricao": "Bebida doce à base de arroz, canela e baunilha.",
+            "imagem": "https://exemplo.com/horchata.jpg",
+            "restaurante_id": 3
+        },
+        {
+            "id": 11,
+            "nome": "Lassi de Manga",
+            "preco": 5.99,
+            "descricao": "Iogurte batido com manga e especiarias.",
+            "imagem": "https://exemplo.com/lassi_manga.jpg",
+            "restaurante_id": 6
+        },
+        {
+            "id": 12,
+            "nome": "Chai Masala",
+            "preco": 4.99,
+            "descricao": "Chá indiano com leite, especiarias e açúcar.",
+            "imagem": "https://exemplo.com/chai_masala.jpg",
+            "restaurante_id": 6
+        },
+        {
+            "id": 9,
+            "nome": "Vinho Branco Chardonnay",
+            "preco": 29.99,
+            "descricao": "Um vinho branco encorpado, perfeito para acompanhar pratos de frutos do mar.",
+            "imagem": "https://exemplo.com/vinho_branc_chardonnay.jpg",
+            "restaurante_id": 5
+        },
+        {
+            "id": 10,
+            "nome": "Coquetel de Frutas Tropicais",
+            "preco": 6.99,
+            "descricao": "Uma mistura refrescante de frutas tropicais com suco de laranja.",
+            "imagem": "https://exemplo.com/coquetel_frutas_tropicais.jpg",
+            "restaurante_id": 5
+        },
+        {
+            "id": 7,
+            "nome": "Caipirinha",
+            "preco": 7.99,
+            "descricao": "Cachaça, limão e açúcar, servidos com gelo.",
+            "imagem": "https://exemplo.com/caipirinha.jpg",
+            "restaurante_id": 4
+        },
+        {
+            "id": 8,
+            "nome": "Cerveja Artesanal",
+            "preco": 9.99,
+            "descricao": "Uma seleção de cervejas artesanais da região.",
+            "imagem": "https://exemplo.com/cerveja_artesanal.jpg",
+            "restaurante_id": 4
+        }
+    ]
+}

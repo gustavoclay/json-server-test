@@ -261,14 +261,6 @@
             "restaurante_id": 1
         },
         {
-            "id": 3,
-            "nome": "Chá de Jasmin",
-            "preco": 3.99,
-            "descricao": "Chá delicado com aroma de jasmin.",
-            "imagem": "https://img.freepik.com/fotos-premium/composicao-com-xicara-de-cha-de-jasmim-e-flores-sobre-fundo-de-bambu_230573-2922.jpg",
-            "restaurante_id": 2
-        },
-        {
             "id": 4,
             "nome": "Cerveja Sapporo",
             "preco": 7.99,
@@ -298,14 +290,6 @@
             "preco": 5.99,
             "descricao": "Iogurte batido com manga e especiarias.",
             "imagem": "https://img.freepik.com/fotos-gratis/iogurte-de-manga-caseiro-em-superficie-de-marmore_1150-41963.jpg",
-            "restaurante_id": 6
-        },
-        {
-            "id": 12,
-            "nome": "Chai Masala",
-            "preco": 4.99,
-            "descricao": "Chá indiano com leite, especiarias e açúcar.",
-            "imagem": "https://img.freepik.com/fotos-gratis/arranjo-de-bebidas-indianas-saborosas-de-alto-angulo_23-2149312367.jpg",
             "restaurante_id": 6
         },
         {
